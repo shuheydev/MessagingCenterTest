@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingCenterTest.Android", "MessagingCenterTest\MessagingCenterTest.Android\MessagingCenterTest.Android.csproj", "{03F75323-3848-47AD-96E5-1B196F21C20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingCenterTest", "MessagingCenterTest\MessagingCenterTest\MessagingCenterTest.csproj", "{FB35AC8B-6BBD-4334-80BE-FAB3C747A2F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F75323-3848-47AD-96E5-1B196F21C20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F75323-3848-47AD-96E5-1B196F21C20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F75323-3848-47AD-96E5-1B196F21C20C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{03F75323-3848-47AD-96E5-1B196F21C20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F75323-3848-47AD-96E5-1B196F21C20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F75323-3848-47AD-96E5-1B196F21C20C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FB35AC8B-6BBD-4334-80BE-FAB3C747A2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB35AC8B-6BBD-4334-80BE-FAB3C747A2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB35AC8B-6BBD-4334-80BE-FAB3C747A2F4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB35AC8B-6BBD-4334-80BE-FAB3C747A2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB35AC8B-6BBD-4334-80BE-FAB3C747A2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB35AC8B-6BBD-4334-80BE-FAB3C747A2F4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F37FC8-7002-4583-9C4A-5462220C5EBA}
+	EndGlobalSection
+EndGlobal
